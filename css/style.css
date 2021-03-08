@@ -494,4 +494,15 @@ footer p:nth-of-type(2){
     margin-top: 8px;
    
 }
+.map-wraper{
+        width: 100%;
+        float: none;
+        text-align: center;
+    }
+.map{
+        float: none;
+        padding: 0 4%;
+        margin-top: 40px;
+    display:inline-block;
+}
 }
