@@ -510,10 +510,9 @@ footer p:nth-of-type(2){
    .map .mapouter .gmap_canvas{
         width: 120px;
         height: 100px;
-         float: none;
-    padding: 0 4%;
-     margin-top: 40px;
-    display:inline-block;
+        float: none;
+        padding-left:-2%;
+   
     
     }
 }
